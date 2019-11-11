@@ -16,10 +16,6 @@ class ITP16A{
             if(i != 0) System.out.print(" ");
             System.out.print(b[i]);
         }
-        // for (int i = 0; i < n; i++) {
-
-            
-        // }
         System.out.println();
     }
 }
